@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeplerPrint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aabe93ce412f9fac14d0b06f8fb7388ced2007c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35266ee193f6142524613f14244c7467893fec00")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeplerPrint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeplerPrint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeplerPrint", "KeplerPrint.csproj", "{A5AF1FC8-75FE-F446-907A-8D5B689EE815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AF1FC8-75FE-F446-907A-8D5B689EE815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AF1FC8-75FE-F446-907A-8D5B689EE815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AF1FC8-75FE-F446-907A-8D5B689EE815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AF1FC8-75FE-F446-907A-8D5B689EE815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D696A3-E282-4ACB-B5C0-DC61EED2BA98}
+	EndGlobalSection
+EndGlobal
